@@ -1,0 +1,20 @@
+.btn-primary{@apply inline-flex items-center gap-2 px-4 py-2 bg-indigo-600 text-white rounded-md shadow-sm hover:bg-indigo-700}
+.btn-outline{@apply inline-flex items-center gap-2 px-4 py-2 border border-slate-200 rounded-md text-slate-700 hover:bg-slate-50}
+
+/* Small utilities */
+.container{max-width:1100px}
+
+/* Auth form tweaks for plain CSS fallback */
+.auth-input{display:block;width:100%;padding:0.6rem 0.75rem;margin-top:0.5rem;border:1px solid #e6e9ef;border-radius:8px}
+.auth-actions{display:flex;gap:0.5rem;margin-top:1rem}
+
+/* Message styles */
+.msg{padding:0.6rem 0.75rem;border-radius:8px}
+.msg-info{background:#eef2ff;color:#3730a3}
+.msg-success{background:#ecfdf5;color:#065f46}
+.msg-error{background:#fff1f2;color:#7f1d1d}
+
+/* Small responsive fix for mobile menu */
+@media (max-width: 768px){
+  .container{padding-left:1rem;padding-right:1rem}
+}
