@@ -1,0 +1,23 @@
+{
+  "Roadmap": [
+    "Phase 1: Basics of IT: Networking (IP, DNS, OSI Model) and Linux command line basics.",
+    "Phase 2: Security fundamentals: CIA Triad, Basic Cryptography, and common threats (Phishing, Malware).",
+    "Phase 3: Tools & Practice: practice on these platforms: Wireshark, Nmap, and Capture The Flag (CTF).",
+    "Phase 4: Advanced Exploitation & Lab Setup: VulnHub, HackTheBox, and local VM environments.",
+    "Phase 5: Professional Certifications: eJPT, CompTIA Security+, and real-world projects."
+  ],
+  "Important Links": [
+    {
+      "title": "TryHackMe",
+      "url": "https://tryhackme.com"
+    },
+    {
+      "title": "NetworkChuck YouTube",
+      "url": "https://youtube.com/@NetworkChuck"
+    },
+    {
+      "title": "OWASP Top 10",
+      "url": "https://owasp.org/www-project-top-ten/"
+    }
+  ]
+}
